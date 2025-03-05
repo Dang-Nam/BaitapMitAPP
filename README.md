@@ -1,7 +1,6 @@
 # BaitapMitAPP
 # Đặng Phương Nam_k215480106036
 # Đề bài: Tạo MIT APP
-+ 1
 
 
 # BÀI LÀM
@@ -24,6 +23,8 @@
 + chạy thử app
   ![image](https://github.com/user-attachments/assets/394e1b70-9c5f-4c89-9afb-d2f2f18da547)
   ![image](https://github.com/user-attachments/assets/ff453cae-2390-447f-9970-d62cae18291c)
-
++ Do link tải apk chỉ giới hạn 2 giờ sử dụng sau đó hệ thống sẽ tự động xóa, để tải app em đã sử dụng driver này:
+https://drive.google.com/drive/folders/1DHRAzN8ep1H-8nFheSxxBUOSpU8wS6dJ?hl=vi
+![image](https://github.com/user-attachments/assets/811e9142-d223-4923-92f6-8c6c587c6215)
 
  
